@@ -10,6 +10,8 @@ public class Test : MonoBehaviour
     private int main; //main에서 추가한 변수
 
     private int dummy;
+
+    private int rebaseTest;
     // Start is called before the first frame update
     void Start()
     {
