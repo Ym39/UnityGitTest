@@ -12,6 +12,9 @@ public class Test : MonoBehaviour
     private int dummy;
 
     private int rebaseTest;
+
+    private int stashTest;
+
     // Start is called before the first frame update
     void Start()
     {
