@@ -9,6 +9,7 @@ public class Test : MonoBehaviour
     private int test; //CollisionTest 브랜치에서 추가한 변수
     private int main; //main에서 추가한 변수
 
+    private int dummy;
     // Start is called before the first frame update
     void Start()
     {
