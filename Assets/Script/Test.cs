@@ -15,6 +15,8 @@ public class Test : MonoBehaviour
 
     private int stashTest;
 
+    private int ccc;
+
     // Start is called before the first frame update
     void Start()
     {
