@@ -13,7 +13,9 @@ public class Test : MonoBehaviour
 
     private int rebaseTest;
 
-    private int stashTest;
+    private int aaa;
+    private int bbb;
+   
 
     private int ccc;
     private int ddd;
