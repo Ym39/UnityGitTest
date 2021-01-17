@@ -18,7 +18,7 @@ public class Test : MonoBehaviour
    
 
     private int ccc;
-
+    private int ddd;
     // Start is called before the first frame update
     void Start()
     {
