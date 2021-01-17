@@ -13,6 +13,8 @@ public class Test : MonoBehaviour
 
     private int rebaseTest;
 
+    private int aaa;
+    private int bbb;
    
 
     // Start is called before the first frame update
